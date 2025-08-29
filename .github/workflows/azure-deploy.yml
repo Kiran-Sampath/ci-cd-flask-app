@@ -2,7 +2,7 @@ name: Deploy to Azure Web App
 
 on:
   workflow_run:
-    workflows: ["CI/CD Pipeline"]
+    workflows: ["CI/CD Pipelineo it"]
     branches: [ main, master, azure-deployment ]
     types: [completed]
 
