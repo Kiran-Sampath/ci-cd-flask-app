@@ -7,9 +7,9 @@ app = Flask(__name__)
 @app.route('/')
 def hello_world():
     return jsonify({
-        'message': 'Hello World! - Testing Azure Deployment',
+        'message': 'Hello World!',
         'timestamp': datetime.now().isoformat(),
-        'version': '1.0.0'
+        'version': '1.0.2'
     })
 
 @app.route('/health')

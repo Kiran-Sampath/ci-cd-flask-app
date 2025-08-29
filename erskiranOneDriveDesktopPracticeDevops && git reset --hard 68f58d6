@@ -1,0 +1,5 @@
+[33m2f70ae0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mazure-deployment[m[33m, [m[1;31morigin/azure-deployment[m[33m)[m Test Azure deployment with updated message
+[33m68f58d6[m Fix wfastcgi version to 3.0.0
+[33me864bd4[m Update workflows: CI/CD runs on azure-deployment branch, Azure deployment only after CI/CD success
+[33ma4ab513[m Add Azure Web App deployment configuration
+[33ma491703[m Add Azure Web App deployment configuration
