@@ -2,7 +2,7 @@ name: Deploy to Azure Web App
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ main, master, azure-deployment ]
   pull_request:
     branches: [ main, master ]
 
